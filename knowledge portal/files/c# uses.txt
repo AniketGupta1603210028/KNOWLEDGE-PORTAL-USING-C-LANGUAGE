@@ -1,0 +1,1 @@
+C# was developed by Microsoft and is used in essentially all of their products. It is mainly used for developing desktop applications and, more recently, Windows 8/10 applications. It is also a part of .NET so it is used alongside languages like ASP in web development and apps.

@@ -1,0 +1,9 @@
+comparing the OO principles of C# with those of JS is a completely different mindset. The one is not more difficult than the other, they're just different. Thus if your thoughts go more to the mainstream variant of C#'s OOP, then you'd find JS more complicated, and visa versa.
+
+I'd say though, that coming at both from no previous knowledge I'd tend towards C# being the more complicated. Though, there's a loophole, C# tends to be written in an IDE (Visual Studio / MonoDevelop / SharpDevelop) which helps a great deal in "exploring" the language, its libraries and even its structure. JS does not have such ubiqutous editing tools - thus dependant on whatever text editor you're using.
+
+Be warned though: IDEs (especially those with similar help-me-type capabilities) may hamper your learning experience. I've seen many who are lost without such things as Visual Studio's IntelliSense - unable to find out what or in which order a particular function's arguments need to be. IMO going with a less hand-holding editor may be more difficult, but teaches you to search for such things on your own. So my suggestion would be to learn C# by turning off such aids - at least at the start.
+
+Which brings me to my answer to this question: C# is "slightly" more difficult than JS.
+C# isn't "that" dificult to learn. It's got very few "strange" things in it. And the usual editing tools hold your hand, thus making it easier to develop "something", while making it more difficult to "understand" what you're doing.
+JS can be done at a basic level as a very simple language, but when going further it has some esoteric and "unique" features you may not find in the mainstream languages. It's editng tools are varied and tend towards just being a text editor instead of an auto-coder. This makes it more complicated, yet better to teach the understanding of the programming concepts.

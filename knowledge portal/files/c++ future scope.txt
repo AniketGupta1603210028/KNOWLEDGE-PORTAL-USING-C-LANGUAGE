@@ -1,0 +1,5 @@
+C++ is a good choice for the future. It’s extremely versatile and used everywhere for every purpose. It’s very much in demand, according to job postings at Indeed. C++ is the premiere language used for console game development. C++ is heavily used by the financial industry and used for numerical/scientific computing. It’s used for writing operating systems, device drivers, embedded software, and other systems software.
+
+It’s even used for web development with the TreeFrog framework!
+
+Your future is secure with C++, but it wouldn’t hurt to expand your language repertoire with Java and Python. These three languages dominate the IT industry. You should also seriously consider the Go language, if you’re really looking at the future.

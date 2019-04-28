@@ -1,0 +1,29 @@
+Applications of PHP
+
+1. Web Pages and Web-Based Applications:
+
+Any web page or web application developed in the current ecosystem needs to offer a high degree of customization, provide highly interactive user interface, be capable of performing online transactions and integrate with database systems.   Through its three-tiered architecture which works on browser, server and database system in a linear manner, PHP offers a reliable solution to achieve these features. As a consequence, PHP is used by over 82% of websites for server side programming; over 244 million websites are built using PHP. Further, web-based enterprise applications and a multitude of Facebook apps are also scripted in PHP.
+
+2. Web Content Management Systems:
+
+PHP offers support to numerous databases including MySQL, Oracle and MS Access and is capable of interacting with other services using protocols such as IMAP, LDAP,  POP3, NNTP, SNMP, HTTP and COM . As a result, PHP has been used for creating popular web Content Management Systems (CMS), including WordPress and its plugins, user-facing portion of Facebook, Joomla, Drupal, Moodle, Silverstripe, MediaWiki, Digg and others. 
+
+3. eCommerce Applications:
+
+From small businesses to large enterprises, selling to online shoppers is now an indispensable requirement.  Through use of frameworks like CodeIgniter and CakePHP, PHP allows creation of eCommerce applications in a swift and simple manner. Many of the highly used eCommerce platforms, such as OpenCart, Magento, PrestaShop, Zen Cart,  AgoraCart and Ubercart, have all been created on PHP.
+
+4. GUI-Based Applications:
+
+While PHP is largely used as a scripting language for web-based applications, it is also possible to employ it for creating desktop graphical user interface (GUI) based applications. Tools like PHP-GTK 2, DevelStudio and ZZEE PHP GUI, allow scripting in PHP, compiling it into .exe capable of running standalone.
+
+5. Create Flash:
+
+An open source library, such as Ming, helps to create .SWF format movies which include most of the features of Flash – gradients, bitmaps (pngs and jpeg), morphs, shapes, text, button, actions and animations.  Further, Flash elements like login-form and email form can be easily created and incorporated into dynamic web pages using PHP.
+
+6. Image Processing and Graphic Design:
+
+Apart from managing text content, PHP can also be used to manipulate images. Integration of various image processing libraries, such as GD library, Imagine and ImageMagick, in PHP applications allows rotating, cropping, resizing, creating thumbnail pictures, adding watermarks and generating output images in multiple formats including jpeg, gif, wbmp, xpm and png.  This feature is an essential requirement for building robust websites and web applications.
+
+7. Data Representation:
+
+Through use of tools like Image_Graph, PHP can be used to create a variety of graphs, charts, scatter-dot plots and other means of graphical representations. This feature finds application across client-side desktop applications, eCommerce websites and other applications where data needs to be presented in a concise and graphical manner.

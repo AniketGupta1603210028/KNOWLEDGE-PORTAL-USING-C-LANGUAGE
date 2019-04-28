@@ -1,0 +1,16 @@
+The degree of difficulty in learning JavaScript depends on the level of knowledge you bring to it. Because the most common way to run JavaScript is as part of a web page, you must first understand HTML. In addition, a familiarity with CSS is also useful 
+
+comparison with html
+JavaScript,  is not a markup language; rather, it is a programming language. That by itself is enough to make learning JavaScript a lot more difficult than HTML. While a markup language describes what something is, a programming language defines a series of actions to be performed.
+
+Each command written in JavaScript defines an individual action — which can be anything from copying a value from one place to another, performing calculations on something, testing a condition, or even providing a list of values to be used in running a long series of commands that have been previously defined.
+
+
+As there are lots of different actions that can be performed and those actions can be combined in many different ways, learning any programming language is going to be more difficult than learning a markup language because there is a lot more that you need to learn.
+
+However, there's a caveat: To be able to properly use a markup language, you need to learn the entire language. Knowing part of a markup language without knowing the rest means that you cannot mark up all of the page content correctly. But knowing a part of a programming language means that you can write programs that use the part of the language that you know to create programs.
+
+While JavaScript is more complex than HTML, you can start writing useful JavaScript far more quickly than you might take to learn how to correctly mark up web pages with HTML. It will, however, take you a lot longer to learn everything that can be done with JavaScript than HTML.
+
+COMPARING JAVASCRIPT TO OTHER PROGRAMMING LANGUAGES
+If you already know another programming language, then learning JavaScript will be much easier for you than it was to learn that other language. Learning your first programming language is always the hardest one since when you learn a second and subsequent language that uses a similar programming style you already understand the programming style and just need to learn how the new language sets out the commands to do the things you already know how to do in another language.

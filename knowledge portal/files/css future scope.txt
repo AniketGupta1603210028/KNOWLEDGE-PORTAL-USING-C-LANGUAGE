@@ -1,0 +1,4 @@
+HTML5 and CSS 3 offer web developers new semantic tags, native animation tools, server-side fonts and much more, but that’s not the end of the story. In fact, for developers slogging away in the web design trenches, one of the most promising parts of CSS 3 is still just over the horizon — true page layout tools.
+While it’s possible to create amazingly complex layouts using tools like CSS floats, positioning rules and the odd bit of JavaScript, none of those tools were actually created explicitly for laying out content, which is why it’s amazingly complex to get them working the way you want across browsers.
+
+So this is it.

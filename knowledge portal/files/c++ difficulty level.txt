@@ -1,0 +1,6 @@
+It's one of the oldest main stream languages. So there are so many rules, guidelines, legacy bugs, new bugs and a lot of libraries to learn.
+Its specs are maintained by a democratic organization so it's slow to change and have to please everyone. Over time, it's accumulated so many "fats" and it's very hard to remove them without 1% of the users (should be in the tens of thousands) hold protests.
+It was originally designed to just be a better C. Then along the way, it picks up so many helms: system, embedded, GUI, web server, parallel, generic, OO,.. And every piece of them make it complicated
+The C++ committee want it to do so many things at once: fast, efficient (thus memory pointer, no gc ), easy to use ( leads to template, many OO design patterns, so many libaries,..) and should be able to do what ever you want. The goal is broad. Modern languages like Python and Ruby or even Java usually focus on more specific objectives and so they are really good on those.
+
+But even with all of those, I still think C++ is a wonderful language. If you follow Bjarne Stroustrup  and read his books, you may find out that there is a reason why such a 'bad' thing exists in C++.

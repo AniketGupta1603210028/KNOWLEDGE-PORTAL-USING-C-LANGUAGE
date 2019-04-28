@@ -1,0 +1,10 @@
+JavaScript is the present and the near future of programming.
+
+There are two good reasons for this:
+
+
+JavaScript is the native language of the web, and the web is rapidly expanding.
+
+Because of this, JavaScript is receiving a tremendous amount of attention from developers who are improving its performance and expanding its functionality.
+
+As JavaScript improves, more and more people will use it.

@@ -1,0 +1,43 @@
+Spheres where java is implemented is given below.
+
+1) Android Apps
+If you want to see where Java is used, you are not too far away. Open your Android phone and any app, they are actually written in Java programming language, with Google's Android API, which is similar to JDK. Couple of years back Android has provided much needed boost and today many Java programmer are Android App developer. By the way android uses different JVM and different packaging, as we have seen in our previous article about how Android app works, but code is still written in Java.
+
+
+2) Server Apps at Financial Services Industry
+Java is very big in Financial Services. Lots of global Investment banks like Goldman Sachs, Citigroup, Barclays, Standard Charted and other banks use Java for writing front and back office electronic trading system, writing settlement and confirmation systems, data processing projects and several others. Java is mostly used to write server side application, mostly without any front end, which receives data form one server (upstream), process it and sends it other process (downstream). Java Swing was also popular for creating thick client GUIs for traders, but now C# is quickly gaining market share on that space and Swing is out of its breath.
+
+
+3) Java Web applications
+Java is also big on E commerce and web application space. You have a lot of  RESTfull services being created using Spring MVC, Struts 2.0 and similar frameworks. Even simple Servlet, JSP and Struts based web applications are quite popular on various government projects. Many of government, healthcare, insurance, education, defense and several other department have their web application built in Java.
+
+Real world application of Java
+
+4) Software Tools
+Many useful software and development tools are written and developed in Java e.g. Eclipse, InetelliJ Idea and Netbans IDE. I think they are also most used desktop applications written in Java. Though there was time when Swing was very popular to write thick client, mostly in financial service sector and Investment banks. Now days, Java FX is gaining popularity but still it is not a replacement of Swing and C# has almost replaced Swing in Finance domain.
+
+
+5) Trading Application
+Third party trading application, which is also part of bigger financial services industry, also use Java. Popular trading application like Murex, which is used in many banks for front to bank connectivity, is also written in Java.
+
+
+6) J2ME Apps
+Though advent of iOS and Android almost killed J2ME market, but still there is large market of low end Nokia and Samsung handset which uses J2ME. There was time when almost all games, application, which is available in Android are written using MIDP and CLDC, part of J2ME platform. J2ME is still popular on products like Blu-ray, Cards, Set top boxes etc. One of the reason of WhatsApp being so popular is because it is also available in J2ME for all those Nokia handset which is still quite big.
+
+
+7) Embedded Space
+Java is also big in the embedded space. It shows how capable the platform is, you only need 130 KB to be able to use Java technology (on a smart card or sensor). Originally Java was designed for embedded devices. In fact, this is the one area, which was part of Java's initial campaign of "write once, run anywhere" and looks like it is paying up now.
+
+
+8) Big Data technologies
+Hadoop and other big data technologies are also using Java in one way or other e.g. Apache's Java-based HBase and Accumulo (open source), and  ElasticSearch as well. By the Java is not dominating this space, as there are technologies like MongoDB which is written in C++. Java has potential to get major share on this growing space if Hadoop or ElasticSearch goes big.
+
+
+9) High Frequency Trading Space
+Java platform has improved its performance characteristics a lot and with modern JITs, its capable of delivering performance at C++ level. Due to this reason, Java is also popular on writing high performance systems, because Though performance is little less compared to native language, but you can compromise safety, portability and maintainability for more speed and it only takes one inexperienced C++ programmer to make an application slow and unreliable.
+
+
+10) Scientific Applications
+Nowadays Java is often a default choice for scientific applications, including natural language processing. Main reason of this is because Java is more safe, portable, maintainable and comes with better high-level concurrency tools than C++ or any other language.
+
+Read more: http://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html#ixzz4xdPWdpHU

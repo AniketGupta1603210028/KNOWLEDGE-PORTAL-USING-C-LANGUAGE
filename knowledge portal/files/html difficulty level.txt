@@ -1,0 +1,7 @@
+HTML is pretty easy to learn. In fact, most browsers have been intelligently developed to give you information about almost every website you look at. This was one of the ways I learned, and sharpen my HTML and CSS skills, by taking a look at what others have done, and how.
+
+In fact, if you write text in a notepad file, and save it with the file extension ".html", you will have the browser attempt to interpret this document as a webpage. That's probably the simplest form of a webpage.
+
+View the source of this file from a browser, and many browsers will give you your text embedded in the basic HTML structure of a webpage.
+
+HTML is Easy

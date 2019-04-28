@@ -1,0 +1,7 @@
+It’s not going anywhere in your lifetime. Oh, sure, it’ll be updated, but it's not going anywhere because it's the only language that can be used to provide libraries for other languages.
+
+Your library in python can't be easily used by C++, your library in java can't be used by any other language, your library in C# won't get used by a java program. And so on…
+
+Of course you can write your libxxx.so in c++, as long as the interface doesn't use classes, overloading, polymorphism, templates or any other c++ feature, in which case you may as well have written it in C.
+
+So, no, C is not going anywhere until we switch away from operating systems. And computers :-) so until the apocalypse, C will still be there providing other languages with functionality.

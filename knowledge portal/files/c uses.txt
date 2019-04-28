@@ -1,0 +1,26 @@
+C was initially used for system development work, in particular the programs that make-up the operating system. Why use C?
+ Mainly because it produces code that runs nearly as fast as code written in assembly language. Some examples of the use of C might be:
+
+
+Operating Systems
+
+Language Compilers
+
+Assemblers
+
+Text Editors
+
+Print Spoolers
+
+Network Drivers
+
+Modern Programs
+
+Data Bases
+
+
+Language Interpreters
+
+Utilities
+
+In recent years C has been used as a general-purpose language because of its popularity with programmers.

@@ -1,0 +1,21 @@
+Considering the fact you know CSS and HTML then Bootstrap is just a 10 hour learning process for you. The col-lg-12 which you are referencing is the Grid System. A web page in Bootstrap is divided into rows and columns(grid). Each row can have the size of 12 columns at max.
+
+So you can have 3 columns in a row like
+
+col-lg-4,col-lg-4,col-lg-4
+col-lg-3,col-lg-2,col-lg-7
+etc
+or 2 columns in a row like
+
+col-lg-6,col-lg-6
+col-lg-8,col-lg-4
+etc
+or 1 column only
+
+col-lg-12
+etc
+These columns remain on the size of one another i.e they are float:left. But they come down if the screen size becomes smaller i.e. are slacked (float:none).
+
+The slacking is automatically done by bootstrap and this slacking provides your web page with the responsiveness feature.
+
+You can learn How to Use Bootstrap and create Responsive Design very easily. It won’t take more than 10 hours.

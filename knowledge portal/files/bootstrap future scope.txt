@@ -1,0 +1,3 @@
+No, it’s just a front-end framework and although it is very popular, there are other things happening in mobile web design like Adaptive Web Design or RESS which Bootstrap is no solution for.
+Bootstrap also has a rather narrow definition of visual design. It’s great as a template to get you started. But for people like myself who already created their own framework it has not enough to offer to create custom designs.
+Calling Bootstrap the future of mobile web design is a bit like calling WordPress the future of content management.

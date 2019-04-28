@@ -1,0 +1,7 @@
+Scope of only HTML: very minimal
+
+Scope of Front end development: Superb
+
+To elaborate on front end development, you should learn other client side programming languages like JavaScript , NodeJS, AnguarJS and CSS for design.
+
+The combination of HTML, css and JS is a killer one. Future is bright and you can crack any interview if you have good command on these three, especially JavaScript.

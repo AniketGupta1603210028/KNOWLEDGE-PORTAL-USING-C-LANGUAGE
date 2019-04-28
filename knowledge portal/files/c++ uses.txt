@@ -1,0 +1,41 @@
+Real-World Applications of C
+
+1. Operating Systems:
+
+
+2. Development of New Languages:
+
+
+3. Computation Platforms:
+
+
+4. Embedded Systems:
+
+
+5. Graphics and Games:
+
+
+6. Games:
+
+
+7. Graphic User Interface (GUI) based applications:
+
+
+8. Web Browsers:
+
+
+9. Advance Computations and Graphics:
+
+
+10. Database Software:
+
+11. Operating Systems:
+
+
+12. Enterprise Software:
+
+
+13. Medical and Engineering Applications:
+
+14. Compilers:
+

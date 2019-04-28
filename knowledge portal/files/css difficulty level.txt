@@ -1,0 +1,5 @@
+CSS is easy to learn and you can get good at it easily.
+
+However, getting good at it at is another story. The two hardest parts of CSS are debugging and browser compatibility, put your focus there. The rest is just a google search away. Practice debugging skills in the dev toolbox (chrome is generally very good for this). Use a tool like Browserstack when you're testing browser compatibility.
+
+Stay ahead of the curve with CSS3 techniques but be sure you know how to deal with legacy browsers.

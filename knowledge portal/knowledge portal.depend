@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446667744 source:d:\knowledge portal\knowledge portal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510055047 source:d:\knowledge portal\knowledge portal\knowledge portal.c
+	<stdio.h>
+
+1510205260 source:d:\knowledge portal\knowledge portal.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

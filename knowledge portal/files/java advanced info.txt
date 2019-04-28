@@ -1,0 +1,2 @@
+There is only a thin line between Java and advanced Java. I presume you understand the basic programming constructs and want to move to an expert level. 
+. J2EE is a set of Java libraries to develop web applications that run in a Java program called container. Tomcat is one such container. Lot of tutorials are available online teaching you to write web applications. However this has to be dealt carefully considering how vast this space is. I suggest a thorough understanding JSP and Servlets is good enough.

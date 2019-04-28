@@ -1,0 +1,7 @@
+JavaScript is most commonly used as a client side scripting language. This means that JavaScript code is written into an HTML page. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do something with it.
+
+The fact that the script is in the HTML page means that your scripts can be seen and copied by whoever views your page. Nonetheless, to my mind this openness is a great advantage, because the flip side is that you can view, study and use any JavaScript you encounter on the WWW.
+
+JavaScript can be used in other contexts than a Web browser. Netscape created server-side JavaScript as a CGI-language that can do roughly the same as Perl or ASP. There is no reason why JavaScript couldn’t be used to write real, complex programs. However, this site exclusively deals with the use of JavaScript in web browsers.
+
+If you don’t have any programming experience at all it’s best to start with some gentle JavaScript examples that teach you the basics.

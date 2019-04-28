@@ -1,0 +1,26 @@
+Basically Java can Categories into Three parts:
+
+Java SE (Core Java or Java Core)
+Java EE (Advance Java)
+Java ME (Mobile Development with Java)
+
+1. What is Core Java?
+Java has 3 important Editions
+i. Java Standard Edition / Core Java * Old name J2SE.
+ii. Java Enterprise Edition / Advanced Java *Old name J2EE.
+iii. Java Micro Edition * Old name J2ME.
+
+Core Java" is Sun's term, used to refer to Java SE, the standard edition and a set of related technologies, like the Java VM, CORBA, et cetera. This is mostly to differentiate from, say, Java ME or Java EE.
+
+Core Java" is Oracle's definition and refers to subset of Java SE technologies.
+
+Currently Java Core is defined as a following set:
+
+Basic technologies
+CORBA
+HotSpot VM
+Java Naming and Directory Interface (JNDI)
+Application monitoring and management
+Tools API
+XML
+But as you probably understand even term 'basic technologies' is somewhat unclear ;-) so this is not so strict definition.

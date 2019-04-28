@@ -1,0 +1,11 @@
+A survey shows that a PHP developer India has more career opportunities than the Java programmers.
+
+But don’t get over excited, when companies like HCL, Infosys, Microsoft and other big companies hire you as a PHP Developer they also expect a lot from you. So you must have in-depth knowledge, skills and expertise in PHP as well as in other scripting languages and PHP based framework, MVC, CMS, JSON, XML, HTML, Strong in OOPS Concept, WordPress, API integration etc.
+
+More frequent designations for which Php developers are hired nowadays includes:
+
+PHP Trainee
+PHP Programmer
+PHP Web Developer
+Web Designer
+Software Developer

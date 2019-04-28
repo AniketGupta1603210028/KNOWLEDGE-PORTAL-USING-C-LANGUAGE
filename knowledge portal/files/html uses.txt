@@ -1,0 +1,9 @@
+HTML is basically used for designing purposes.
+ 
+It is used to design webpages,interfaces for various mobile applications and web applications.
+
+Basically we use HTML to create electronic documents such as web pages. 
+
+We also use Html to format different text as title & headings, to add graphics on a site. 
+
+HTML consists of a series of short codes & it has syntax like any other language.

@@ -1,0 +1,31 @@
+Types of Applications that Run on Java
+
+1. Desktop GUI Applications:
+
+Java provides GUI development through various means like Abstract Windowing Toolkit (AWT), Swing and JavaFX.  While AWT contains a number of pre-constructed components such as menu, button, list, and numerous third-party components, Swing, a GUI widget toolkit, additionally provides certain advanced components like trees, tables, scroll panes, tabbed panel and lists. JavaFX, a set of graphics and media packages, provides Swing interoperability, 3D graphic features and self-contained deployment model which facilitates quick scripting of Java applets and applications.
+
+2. Mobile Applications:
+
+Java Platform, Micro Edition (Java ME or J2ME) is a cross-platform framework to build applications that run across all Java supported devices, including feature phones and smart phones. Further, applications for Android, one of the most popular mobile operating systems, are usually scripted in Java using the Android Software Development Kit (SDK) or other environments.
+
+3. Embedded Systems:
+
+Embedded systems, ranging from tiny chips to specialized computers, are components of larger electromechanical systems performing dedicated tasks. Several devices, such as SIM cards, blue-ray disk players, utility meters and televisions, use embedded Java technologies.   According to Oracle, 100% of Blu-ray Disc Players and 125 million TV devices employ Java.
+
+4. Web Applications:
+
+Java provides support for web applications through Servlets, Struts or JSPs.  The easy programming and higher security offered by the programming language has allowed a large number of government applications for health, social security, education and insurance to be based on Java. Java also finds application in development of eCommerce web applications using open-source eCommerce platforms, such as Broadleaf.
+
+5. Web Servers and Application Servers:
+
+The Java ecosystem today contains multiple Java web servers and application servers.  While Apache Tomcat, Simple, Jo!, Rimfaxe Web Server (RWS) and Project Jigsaw dominate the web server space, WebLogic, WebSphere, and Jboss EAP dominate commercial application server space.
+
+6. Enterprise Applications:
+
+Java Enterprise Edition (Java EE) is a popular platform that provides API and runtime environment for scripting and running enterprise software, including network applications and web-services. Oracle claims Java is running in 97% of enterprise computers.  The higher performance guarantee and faster computing in Java has resulted in high frequency trading systems like Murex to be scripted in the language. It is also the backbone for a variety of banking applications which have Java running from front user end to back server end.
+
+7. Scientific Applications:
+
+Java is the choice of many software developers for writing applications involving scientific calculations and mathematical operations. These programs are generally considered to be fast and secure, have a higher degree of portability and low maintenance. Applications like MATLAB use Java both for interacting user interface and as part of the core system.
+
+In conclusion, Java is widely applicable across different types of applications. It offers cross-functionality and portability, and these features, among many others, make Java the programming language of choice for software development of a specific nature

@@ -1,0 +1,9 @@
+Formality. It's static typed (e.g. to create something you have to write it out like String variable = "" vs variable = ""), it's easy to fall into an inheritance clusterfuck, everything has to be in objects/classes. I'm not addressing people who think Java is less powerful than C/C++ (which it is, but with tradeoffs), just why some people seem to think it's difficult.
+
+Personally I've always preferred formality. There's nothing wrong with dynamic typing, but for some reason I guess I always prefer to be able to define exactly what I want. Saves me time debugging as well because you can't put the wrong thing in a variable or work with it wrong. Any decent IDE for it (let's be honest, this is basically just Eclipse or maybe NetBeans) will pick up all of that right off the bat.
+
+Inheritance can be a pain, but there is a solution. Don't use it. Bam. Problem solved. If you need something then use an interface instead. Tada... The only cases I would use inheritance would probably some types of custom UI elements, or extending built in objects.
+
+Everything has to be in objects and in the right methods. Boo hoo. Again, I'm perfectly fine with this. I prefer clarity over ambiguity. It's easier to understand, structure, and debug clarity.
+
+So why do people find Java hard? Maybe they don't like (physically) typing. Which I guess I understand, but it's really not that much, and the vast majority of it is just the initial scaffolding/architecture. Plus Eclipse automates enormous amounts of it, while still retaining clarity. If you prefer ambiguity, I guess good for you (?) If you just don't want to type as much, then maybe writing code isn't for you.
